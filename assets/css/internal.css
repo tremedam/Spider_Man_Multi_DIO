@@ -18,6 +18,11 @@
 
 }
 
+.s-logo img {
+  width: 400px;
+  height: auto;
+}
+
 .s-wrapper .s-left-column {
   width: 100px;
   height: 100%;
@@ -60,7 +65,7 @@
 
 .s-wrapper .s-main-content__top .s-description{
   background-color: rgba(0,0,0,.7);
-  max-width: 50%;
+  max-width: 80%;
   padding: 20px;
   border-radius: 10px;
 }
