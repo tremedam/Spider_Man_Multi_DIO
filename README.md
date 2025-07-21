@@ -40,7 +40,7 @@ Não é necessário nenhum servidor ou instalação de dependências para uso lo
 │   ├── andrew-garfield/
 │   ├── tobey-maguire/
 │   └── tom-holland/
-├──LICENSE
+├── LICENSE
 └── README.md
 ```
 
