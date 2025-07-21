@@ -4,6 +4,8 @@
 
 Spider_Man_Multi_DIO é uma aplicação web interativa que homenageia o universo do Homem-Aranha, trazendo as diferentes versões do herói nos cinemas. O projeto foi desenvolvido como parte de uma aula prática do Bootcamp de Front-End da DIO (Digital Innovation One), com o objetivo de exercitar habilidades em HTML, CSS, JavaScript e boas práticas de desenvolvimento web.
 
+![alt text](assets/images/pagina-expo.png)
+
 ---
 
 ## ✨ Funcionalidades
