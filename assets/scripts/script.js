@@ -34,3 +34,13 @@ function selectCarouselItem(selectedButtonElement) {
   activeButtonElement.classList.remove('s-controller__button--active');
   selectedButtonElement.classList.add('s-controller__button--active');
 }
+
+// Carrossel automático
+document.addEventListener("DOMContentLoaded", function() {
+  const buttons = document.querySelectorAll('.s-controller__button');
+  let current = 0;
+  setInterval(() => {
+    current = (current + 1) % buttons.length;
+    selectCarouselItem(buttons[current]);
+  }, 6000); // Troca a cada 6 segundos
+});
